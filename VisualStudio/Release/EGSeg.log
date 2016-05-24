@@ -1,0 +1,11 @@
+﻿  segment.cpp
+d:\code\cplusplus\egseg\pnmfile.h(148): warning C4101: 'doc': unreferenced local variable
+d:\code\cplusplus\egseg\imconv.h(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\code\cplusplus\egseg\filter.h(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\egseg\segment-image.h(31): warning C4101: 'r': unreferenced local variable
+segment.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+segment.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 269 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EGSeg.vcxproj -> D:\code\cplusplus\EGSeg\Release\EGSeg.exe

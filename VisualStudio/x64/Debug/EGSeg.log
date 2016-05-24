@@ -1,0 +1,11 @@
+﻿  segment.cpp
+d:\code\cplusplus\egseg\pnmfile.h(148): warning C4101: 'doc': unreferenced local variable
+d:\code\cplusplus\egseg\convolve.h(34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\cplusplus\egseg\convolve.h(54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\cplusplus\egseg\imconv.h(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\code\cplusplus\egseg\filter.h(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\cplusplus\egseg\filter.h(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\egseg\segment-image.h(31): warning C4101: 'r': unreferenced local variable
+d:\code\cplusplus\egseg\segment.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\egseg\segment.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  EGSeg.vcxproj -> D:\code\cplusplus\EGSeg\x64\Debug\EGSeg.exe
